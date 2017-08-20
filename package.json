@@ -1,6 +1,6 @@
 {
   "name": "wdio-workflo-spec-reporter",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "This is a customized version of wdio-spec-reporter for use with workflo framework.",
   "main": "build/reporter.js",
   "scripts": {
